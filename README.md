@@ -67,3 +67,9 @@ npm test
 ```bash
 npm run build
 ```
+
+## GitHub Pages
+
+The live site is published from the `main` branch with GitHub Actions:
+
+https://nikhildhulipudi15.github.io/setu/
